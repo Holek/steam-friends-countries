@@ -28,7 +28,7 @@ The file is available in the repository and, obviously, free and open-source.
 LICENSE
 =======
 
-* ----------------------------------------------------------------------------
+    * ----------------------------------------------------------------------------
     * "THE BEER-WARE LICENSE" (Revision 1):
     * <holek@derpymail.org> wrote this file. As long as you retain this notice you
     * can do whatever you want with this stuff. If we meet some day, and you think
