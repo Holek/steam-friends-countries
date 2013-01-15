@@ -49239,7 +49239,7 @@
     "name": "Germany",
     "states": {
       "01": {
-        "name": "Abashis Raioni",
+        "name": "Baden-Württemberg​",
         "cities": {
           "12476": {
             "name": "Aalen"
@@ -49943,7 +49943,7 @@
         }
       },
       "02": {
-        "name": "Abkhazia",
+        "name": "​Bayern​",
         "cities": {
           "12477": {
             "name": "Abensberg"
@@ -50602,7 +50602,7 @@
         }
       },
       "03": {
-        "name": "Adigenis Raioni",
+        "name": "Bremen",
         "cities": {
           "12679": {
             "name": "Bremen"
@@ -50613,7 +50613,7 @@
         }
       },
       "04": {
-        "name": "Ajaria",
+        "name": "​Hamburg​",
         "cities": {
           "13004": {
             "name": "Hamburg"
@@ -50621,7 +50621,7 @@
         }
       },
       "05": {
-        "name": "Akhalgoris Raioni",
+        "name": "​Hessen​",
         "cities": {
           "12494": {
             "name": "Alsfeld"
@@ -51076,7 +51076,7 @@
         }
       },
       "06": {
-        "name": "Akhalk'alak'is Raioni",
+        "name": "​Niedersachsen​",
         "cities": {
           "12479": {
             "name": "Achim"
@@ -51642,7 +51642,7 @@
         }
       },
       "07": {
-        "name": "Akhalts'ikhis Raioni",
+        "name": "Nordrhein-Westfalen​",
         "cities": {
           "12475": {
             "name": "Aachen"
@@ -52607,7 +52607,7 @@
         }
       },
       "08": {
-        "name": "Akhmetis Raioni",
+        "name": "Rheinland-Pfalz​",
         "cities": {
           "12504": {
             "name": "Alzey"
@@ -52756,7 +52756,7 @@
         }
       },
       "09": {
-        "name": "Ambrolauris Raioni",
+        "name": "​Saarland​",
         "cities": {
           "12610": {
             "name": "Beckingen"
@@ -52884,7 +52884,7 @@
         }
       },
       "10": {
-        "name": "Aspindzis Raioni",
+        "name": "Schleswig-Holstein​",
         "cities": {
           "12484": {
             "name": "Ahrensburg"
@@ -53057,7 +53057,7 @@
         }
       },
       "11": {
-        "name": "Baghdat'is Raioni",
+        "name": "​Brandenburg​",
         "cities": {
           "12507": {
             "name": "Angermunde"
@@ -53224,7 +53224,7 @@
         }
       },
       "12": {
-        "name": "Bolnisis Raioni",
+        "name": "Mecklenburg-Vorpommern​",
         "cities": {
           "12508": {
             "name": "Anklam"
@@ -53313,7 +53313,7 @@
         }
       },
       "13": {
-        "name": "Borjomis Raioni",
+        "name": "Sachsen",
         "cities": {
           "12509": {
             "name": "Annaberg-buchholz"
@@ -53516,7 +53516,7 @@
         }
       },
       "14": {
-        "name": "Chiat'ura",
+        "name": "Sachsen-Anhalt​",
         "cities": {
           "12487": {
             "name": "Aken"
@@ -53629,7 +53629,7 @@
         }
       },
       "15": {
-        "name": "Ch'khorotsqus Raioni",
+        "name": "​Thuringen​",
         "cities": {
           "12497": {
             "name": "Altenburg"
@@ -53742,204 +53742,12 @@
         }
       },
       "16": {
-        "name": "Ch'okhatauris Raioni",
+        "name": "​Berlin​",
         "cities": {
           "12623": {
             "name": "Berlin"
           }
         }
-      },
-      "17": {
-        "name": "Dedop'listsqaros Raioni",
-        "cities": {}
-      },
-      "18": {
-        "name": "Dmanisis Raioni",
-        "cities": {}
-      },
-      "19": {
-        "name": "Dushet'is Raioni",
-        "cities": {}
-      },
-      "20": {
-        "name": "Gardabanis Raioni",
-        "cities": {}
-      },
-      "21": {
-        "name": "Gori",
-        "cities": {}
-      },
-      "22": {
-        "name": "Goris Raioni",
-        "cities": {}
-      },
-      "23": {
-        "name": "Gurjaanis Raioni",
-        "cities": {}
-      },
-      "24": {
-        "name": "Javis Raioni",
-        "cities": {}
-      },
-      "25": {
-        "name": "K'arelis Raioni",
-        "cities": {}
-      },
-      "26": {
-        "name": "Kaspis Raioni",
-        "cities": {}
-      },
-      "27": {
-        "name": "Kharagaulis Raioni",
-        "cities": {}
-      },
-      "28": {
-        "name": "Khashuris Raioni",
-        "cities": {}
-      },
-      "29": {
-        "name": "Khobis Raioni",
-        "cities": {}
-      },
-      "30": {
-        "name": "Khonis Raioni",
-        "cities": {}
-      },
-      "31": {
-        "name": "K'ut'aisi",
-        "cities": {}
-      },
-      "32": {
-        "name": "Lagodekhis Raioni",
-        "cities": {}
-      },
-      "33": {
-        "name": "Lanch'khut'is Raioni",
-        "cities": {}
-      },
-      "34": {
-        "name": "Lentekhis Raioni",
-        "cities": {}
-      },
-      "35": {
-        "name": "Marneulis Raioni",
-        "cities": {}
-      },
-      "36": {
-        "name": "Martvilis Raioni",
-        "cities": {}
-      },
-      "37": {
-        "name": "Mestiis Raioni",
-        "cities": {}
-      },
-      "38": {
-        "name": "Mts'khet'is Raioni",
-        "cities": {}
-      },
-      "39": {
-        "name": "Ninotsmindis Raioni",
-        "cities": {}
-      },
-      "40": {
-        "name": "Onis Raioni",
-        "cities": {}
-      },
-      "41": {
-        "name": "Ozurget'is Raioni",
-        "cities": {}
-      },
-      "42": {
-        "name": "P'ot'i",
-        "cities": {}
-      },
-      "43": {
-        "name": "Qazbegis Raioni",
-        "cities": {}
-      },
-      "44": {
-        "name": "Qvarlis Raioni",
-        "cities": {}
-      },
-      "45": {
-        "name": "Rust'avi",
-        "cities": {}
-      },
-      "46": {
-        "name": "Sach'kheris Raioni",
-        "cities": {}
-      },
-      "47": {
-        "name": "Sagarejos Raioni",
-        "cities": {}
-      },
-      "48": {
-        "name": "Samtrediis Raioni",
-        "cities": {}
-      },
-      "49": {
-        "name": "Senakis Raioni",
-        "cities": {}
-      },
-      "50": {
-        "name": "Sighnaghis Raioni",
-        "cities": {}
-      },
-      "51": {
-        "name": "T'bilisi",
-        "cities": {}
-      },
-      "52": {
-        "name": "T'elavis Raioni",
-        "cities": {}
-      },
-      "53": {
-        "name": "T'erjolis Raioni",
-        "cities": {}
-      },
-      "54": {
-        "name": "T'et'ritsqaros Raioni",
-        "cities": {}
-      },
-      "55": {
-        "name": "T'ianet'is Raioni",
-        "cities": {}
-      },
-      "56": {
-        "name": "Tqibuli",
-        "cities": {}
-      },
-      "57": {
-        "name": "Ts'ageris Raioni",
-        "cities": {}
-      },
-      "58": {
-        "name": "Tsalenjikhis Raioni",
-        "cities": {}
-      },
-      "59": {
-        "name": "Tsalkis Raioni",
-        "cities": {}
-      },
-      "60": {
-        "name": "Tsqaltubo",
-        "cities": {}
-      },
-      "61": {
-        "name": "Vanis Raioni",
-        "cities": {}
-      },
-      "62": {
-        "name": "Zestap'onis Raioni",
-        "cities": {}
-      },
-      "63": {
-        "name": "Zugdidi",
-        "cities": {}
-      },
-      "64": {
-        "name": "Zugdidis Raioni",
-        "cities": {}
       }
     }
   },
