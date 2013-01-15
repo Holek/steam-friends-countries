@@ -30,13 +30,20 @@ Installation and usage
 
     gem install steam_location
 
+or add to `Gemfile`
 
+    gem "steam_location", "~> 0.0.2"
+
+Quick tutorial (for IRB):
+
+    > require 'steam_location'
     > location = {"loccountrycode"=>"PL", "locstatecode"=>"86", "loccityid"=>35924}
-     => {"loccountrycode"=>"PL", "locstatecode"=>"86", "loccityid"=>35924}
     > SteamLocation.find(location)
      => {:loccountry=>"Poland", :locstate=>"Wielkopolskie", :loccity=>"Poznan", :map_search_string=>"Poznan, Wielkopolskie, Poland"}
     > SteamLocation.find("PL", "86", 35924)
      => {:loccountry=>"Poland", :locstate=>"Wielkopolskie", :loccity=>"Poznan", :map_search_string=>"Poznan, Wielkopolskie, Poland"}
+
+The `location` hash in the example is an actual part of Steam Web API response for [`GetPlayerSummaries`](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_.28v0002.29) call. You can simply pass player info hash to `SteamLocation.find` method, and it'll return information about player location.
 
 You can use `:map_search_string` for map search queries, like asking Google Maps or Microsoft Bing or whatever mapping system you want to use.
 
