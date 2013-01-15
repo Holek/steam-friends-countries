@@ -25,6 +25,24 @@ Well, I've devised a solution. I've scraped all the information about countries,
 
 The file is available in the repository and, obviously, free and open-source.
 
+Installation and usage
+======================
+
+    gem install steam_location
+
+
+    > location = {"loccountrycode"=>"PL", "locstatecode"=>"86", "loccityid"=>35924}
+     => {"loccountrycode"=>"PL", "locstatecode"=>"86", "loccityid"=>35924}
+    > SteamLocation.find(location)
+     => {:loccountry=>"Poland", :locstate=>"Wielkopolskie", :loccity=>"Poznan", :map_search_string=>"Poznan, Wielkopolskie, Poland"}
+    > SteamLocation.find("PL", "86", 35924)
+     => {:loccountry=>"Poland", :locstate=>"Wielkopolskie", :loccity=>"Poznan", :map_search_string=>"Poznan, Wielkopolskie, Poland"}
+
+You can use `:map_search_string` for map search queries, like asking Google Maps or Microsoft Bing or whatever mapping system you want to use.
+
+This gem has been tested against Ruby 1.8.7, 1.9.2 and 1.9.3.
+
+
 Thanks
 =======
 
