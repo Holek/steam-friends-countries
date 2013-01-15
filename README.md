@@ -25,6 +25,11 @@ Well, I've devised a solution. I've scraped all the information about countries,
 
 The file is available in the repository and, obviously, free and open-source.
 
+Thanks
+=======
+
+Special thanks go to <b>[@stephanpavlovic](https://github.com/stephanpavlovic)</b> for helping out with a scraper script!
+
 LICENSE
 =======
 
