@@ -86916,388 +86916,370 @@
       "12": {
         "name": "Guerrero",
         "cities": {
-          "27749": {
-            "name": "Abasolo"
+          "27757": {
+            "name": "​Acamixtla​"
           },
-          "27755": {
-            "name": "Acambaro"
+          "27761": {
+            "name": "​Acapulco​"
           },
-          "27803": {
-            "name": "Aldama"
+          "27798": {
+            "name": "​Ajuchitlan​"
           },
-          "27858": {
-            "name": "Apaseo El Alto"
+          "27815": {
+            "name": "​Alpoyeca​"
           },
-          "27859": {
-            "name": "Apaseo El Grande"
+          "27857": {
+            "name": "​Apango​"
           },
-          "28014": {
-            "name": "Celaya"
+          "27863": {
+            "name": "​Apaxtla​"
           },
-          "28017": {
-            "name": "Cerano"
+          "27870": {
+            "name": "​Arcelia​"
           },
-          "28020": {
-            "name": "Cerro Gordo"
+          "27896": {
+            "name": "​Atliaca​"
           },
-          "28121": {
-            "name": "Comonfort"
+          "27901": {
+            "name": "​Atoyac​"
           },
-          "28140": {
-            "name": "Coroneo"
+          "27919": {
+            "name": "​Ayutla​"
           },
-          "28142": {
-            "name": "Cortazar"
+          "27922": {
+            "name": "​Azoyu​"
           },
-          "28184": {
-            "name": "Cueramaro"
+          "27952": {
+            "name": "​Buenavista​"
           },
-          "28206": {
-            "name": "Doctor Mora"
+          "28047": {
+            "name": "​Chichihualco​"
           },
-          "28207": {
-            "name": "Dolores Hidalgo"
+          "28060": {
+            "name": "​Chilapa​"
           },
-          "28210": {
-            "name": "Duarte"
+          "28064": {
+            "name": "​Chilpancingo​"
           },
-          "28305": {
-            "name": "Guanajuato"
+          "28091": {
+            "name": "​Coacoyul​"
           },
-          "28333": {
-            "name": "Huanimaro"
+          "28106": {
+            "name": "​Cocula​"
           },
-          "28376": {
-            "name": "Iramuco"
+          "28134": {
+            "name": "​Copala​"
           },
-          "28377": {
-            "name": "Irapuato"
+          "28135": {
+            "name": "​Copalillo​"
           },
-          "28430": {
-            "name": "Jaral Del Progreso"
+          "28156": {
+            "name": "​Coyuca​"
           },
-          "28432": {
-            "name": "Jerecuaro"
+          "28162": {
+            "name": "​Cruz Grande​"
           },
-          "28465": {
-            "name": "Juventino Rosas"
+          "28164": {
+            "name": "​Cuajinicuilapa​"
           },
-          "28470": {
-            "name": "La Aldea"
+          "28174": {
+            "name": "​Cuautepec​"
           },
-          "28473": {
-            "name": "La Calera"
+          "28199": {
+            "name": "​Cutzamala​"
           },
-          "28479": {
-            "name": "La Ermita"
+          "28243": {
+            "name": "​El Ocotito​"
           },
-          "28490": {
-            "name": "La Moncada"
+          "28331": {
+            "name": "​Huamuxtitlan​"
           },
-          "28517": {
-            "name": "Leon"
+          "28364": {
+            "name": "​Huitziltepec​"
           },
-          "28552": {
-            "name": "Manuel Doblado"
+          "28366": {
+            "name": "​Huitzuco​"
           },
-          "28556": {
-            "name": "Maravatio"
+          "28373": {
+            "name": "​Iguala​"
           },
-          "28558": {
-            "name": "Marfil"
+          "28397": {
+            "name": "​Ixtapa​"
           },
-          "28579": {
-            "name": "Medina"
+          "28513": {
+            "name": "​La Union​"
           },
-          "28624": {
-            "name": "Moroleon"
+          "28562": {
+            "name": "​Marquelia​"
           },
-          "28682": {
-            "name": "Ocampo"
+          "28574": {
+            "name": "​Mazatlan​"
           },
-          "28696": {
-            "name": "Octopan"
+          "28609": {
+            "name": "​Mochitlan​"
           },
-          "28746": {
-            "name": "Paracuaro"
+          "28702": {
+            "name": "​Olinala​"
           },
-          "28758": {
-            "name": "Penjamo"
+          "28705": {
+            "name": "​Ometepec​"
           },
-          "28802": {
-            "name": "Pueblo Nuevo"
+          "28766": {
+            "name": "​Petatlan​"
           },
-          "28839": {
-            "name": "Rincon De Tamayo"
+          "28820": {
+            "name": "​Quechultenango​"
           },
-          "28846": {
-            "name": "Romita"
+          "28897": {
+            "name": "​San Jeronimito​"
           },
-          "28858": {
-            "name": "Salamanca"
+          "28898": {
+            "name": "​San Jeronimo​"
           },
-          "28866": {
-            "name": "Salvatierra"
+          "28918": {
+            "name": "​San Luis De La Paz​"
           },
-          "28882": {
-            "name": "San Cristobal"
+          "28922": {
+            "name": "​San Marcos​"
           },
-          "28885": {
-            "name": "San Diego De La Union"
+          "29041": {
+            "name": "​Taxco​"
           },
-          "28889": {
-            "name": "San Felipe"
+          "29054": {
+            "name": "​Tecoanapa​"
           },
-          "28893": {
-            "name": "San Francisco Del Rincon"
+          "29061": {
+            "name": "​Tecpan​"
           },
-          "28904": {
-            "name": "San Jose Iturbide"
+          "29075": {
+            "name": "​Teloloapan​"
           },
-          "28905": {
-            "name": "San Jose Temascatio"
+          "29117": {
+            "name": "​Tepecoacuilco​"
           },
-          "28908": {
-            "name": "San Juan De La Vega"
+          "29165": {
+            "name": "​Tierra Colorada​"
           },
-          "28942": {
-            "name": "San Roque"
+          "29177": {
+            "name": "​Tixtla​"
           },
-          "28972": {
-            "name": "Santa Teresa"
+          "29186": {
+            "name": "​Tlacotepec​"
           },
-          "28973": {
-            "name": "Santiago De Cuenda"
+          "29196": {
+            "name": "​Tlalchapa​"
           },
-          "28979": {
-            "name": "Sarabia"
+          "29207": {
+            "name": "​Tlamacazapa​"
           },
-          "28985": {
-            "name": "Silao"
+          "29215": {
+            "name": "​Tlapa​"
           },
-          "29034": {
-            "name": "Tarandacuao"
+          "29216": {
+            "name": "​Tlapehuala​"
           },
-          "29038": {
-            "name": "Tarimoro"
+          "29256": {
+            "name": "​Tres Palos​"
           },
-          "29249": {
-            "name": "Totolapan"
+          "29335": {
+            "name": "​Xalpatlahuac​"
           },
-          "29283": {
-            "name": "Uriangato"
+          "29338": {
+            "name": "​Xaltianguis​"
           },
-          "29295": {
-            "name": "Valle De Santiago"
+          "29349": {
+            "name": "​Xochihuehuetlan​"
           },
-          "29299": {
-            "name": "Valtierrilla"
+          "29351": {
+            "name": "​Xochistlahuaca​"
           },
-          "29312": {
-            "name": "Victoria"
+          "29388": {
+            "name": "​Zacualpan​"
           },
-          "29320": {
-            "name": "Villagran"
+          "29406": {
+            "name": "​Zihuatanejo​"
           },
-          "29373": {
-            "name": "Yerbabuena"
+          "29413": {
+            "name": "​Zirandaro​"
           },
-          "29375": {
-            "name": "Yuriria"
+          "29415": {
+            "name": "​Zitlala​"
+          },
+          "29423": {
+            "name": "​Zumpango​"
           }
         }
       },
       "13": {
         "name": "Hidalgo",
         "cities": {
-          "27749": {
-            "name": "Abasolo"
+          "27767": {
+            "name": "​Acaxochitlan​"
           },
-          "27755": {
-            "name": "Acambaro"
+          "27768": {
+            "name": "​Acayuca​"
           },
-          "27803": {
-            "name": "Aldama"
+          "27773": {
+            "name": "​Actopan​"
           },
-          "27858": {
-            "name": "Apaseo El Alto"
+          "27794": {
+            "name": "​Ajacuba​"
           },
-          "27859": {
-            "name": "Apaseo El Grande"
+          "27812": {
+            "name": "​Almoloya​"
           },
-          "28014": {
-            "name": "Celaya"
+          "27856": {
+            "name": "​Apan​"
           },
-          "28017": {
-            "name": "Cerano"
+          "27885": {
+            "name": "​Atengo​"
           },
-          "28020": {
-            "name": "Cerro Gordo"
+          "27888": {
+            "name": "​Atitalaquia​"
           },
-          "28121": {
-            "name": "Comonfort"
+          "27899": {
+            "name": "​Atotonilco El Grande​"
           },
-          "28140": {
-            "name": "Coroneo"
+          "27974": {
+            "name": "​Calnali​"
           },
-          "28142": {
-            "name": "Cortazar"
+          "28002": {
+            "name": "​Cardonal​"
           },
-          "28184": {
-            "name": "Cueramaro"
+          "28029": {
+            "name": "​Chapulhuacan​"
           },
-          "28206": {
-            "name": "Doctor Mora"
+          "28175": {
+            "name": "​Cuautepec​"
           },
-          "28207": {
-            "name": "Dolores Hidalgo"
+          "28209": {
+            "name": "​Doxey​"
           },
-          "28210": {
-            "name": "Duarte"
+          "28225": {
+            "name": "​El Arenal​"
           },
-          "28305": {
-            "name": "Guanajuato"
+          "28240": {
+            "name": "​El Llano​"
           },
-          "28333": {
-            "name": "Huanimaro"
+          "28254": {
+            "name": "​Emiliano Zapata​"
           },
-          "28376": {
-            "name": "Iramuco"
+          "28339": {
+            "name": "​Huautla​"
           },
-          "28377": {
-            "name": "Irapuato"
+          "28349": {
+            "name": "​Huejutla​"
           },
-          "28430": {
-            "name": "Jaral Del Progreso"
+          "28358": {
+            "name": "​Huichapan​"
           },
-          "28432": {
-            "name": "Jerecuaro"
+          "28392": {
+            "name": "​Ixmiquilpan​"
           },
-          "28465": {
-            "name": "Juventino Rosas"
+          "28408": {
+            "name": "​Jacala​"
           },
-          "28470": {
-            "name": "La Aldea"
+          "28425": {
+            "name": "​Jaltocan​"
           },
-          "28473": {
-            "name": "La Calera"
+          "28532": {
+            "name": "​Los Reyes​"
           },
-          "28479": {
-            "name": "La Ermita"
+          "28600": {
+            "name": "​Mineral Del Monte​"
           },
-          "28490": {
-            "name": "La Moncada"
+          "28604": {
+            "name": "​Mixquiahuala​"
           },
-          "28517": {
-            "name": "Leon"
+          "28613": {
+            "name": "​Molango​"
           },
-          "28552": {
-            "name": "Manuel Doblado"
+          "28710": {
+            "name": "​Orizatlan​"
           },
-          "28556": {
-            "name": "Maravatio"
+          "28722": {
+            "name": "​Pachuca​"
           },
-          "28558": {
-            "name": "Marfil"
+          "28723": {
+            "name": "​Pachuquilla​"
           },
-          "28579": {
-            "name": "Medina"
+          "28796": {
+            "name": "​Progreso​"
           },
-          "28624": {
-            "name": "Moroleon"
+          "28854": {
+            "name": "​Sahagun​"
           },
-          "28682": {
-            "name": "Ocampo"
+          "28912": {
+            "name": "​San Juan Tepa​"
           },
-          "28696": {
-            "name": "Octopan"
+          "28923": {
+            "name": "​San Marcos​"
           },
-          "28746": {
-            "name": "Paracuaro"
+          "28988": {
+            "name": "​Singuilucan​"
           },
-          "28758": {
-            "name": "Penjamo"
+          "29039": {
+            "name": "​Tasquillo​"
           },
-          "28802": {
-            "name": "Pueblo Nuevo"
+          "29060": {
+            "name": "​Tecozautla​"
           },
-          "28839": {
-            "name": "Rincon De Tamayo"
+          "29111": {
+            "name": "​Tepatepec​"
           },
-          "28846": {
-            "name": "Romita"
+          "29115": {
+            "name": "​Tepeapulco​"
           },
-          "28858": {
-            "name": "Salamanca"
+          "29118": {
+            "name": "​Tepeji​"
           },
-          "28866": {
-            "name": "Salvatierra"
+          "29120": {
+            "name": "​Tepepa​"
           },
-          "28882": {
-            "name": "San Cristobal"
+          "29145": {
+            "name": "​Tetepango​"
           },
-          "28885": {
-            "name": "San Diego De La Union"
+          "29159": {
+            "name": "​Tezontepec​"
           },
-          "28889": {
-            "name": "San Felipe"
+          "29179": {
+            "name": "​Tizayuca​"
           },
-          "28893": {
-            "name": "San Francisco Del Rincon"
+          "29192": {
+            "name": "​Tlahuelilpan​"
           },
-          "28904": {
-            "name": "San Jose Iturbide"
+          "29209": {
+            "name": "​Tlanalapa​"
           },
-          "28905": {
-            "name": "San Jose Temascatio"
+          "29210": {
+            "name": "​Tlanchinol​"
           },
-          "28908": {
-            "name": "San Juan De La Vega"
+          "29223": {
+            "name": "​Tlaxcoapan​"
           },
-          "28942": {
-            "name": "San Roque"
+          "29226": {
+            "name": "​Tlaxiaca​"
           },
-          "28972": {
-            "name": "Santa Teresa"
+          "29235": {
+            "name": "​Tolcayuca​"
           },
-          "28973": {
-            "name": "Santiago De Cuenda"
+          "29258": {
+            "name": "​Tula De Allende​"
           },
-          "28979": {
-            "name": "Sarabia"
+          "29259": {
+            "name": "​Tulancingo​"
           },
-          "28985": {
-            "name": "Silao"
+          "29391": {
+            "name": "​Zacualtipan​"
           },
-          "29034": {
-            "name": "Tarandacuao"
+          "29398": {
+            "name": "​Zapotlan​"
           },
-          "29038": {
-            "name": "Tarimoro"
+          "29404": {
+            "name": "​Zempoala​"
           },
-          "29249": {
-            "name": "Totolapan"
-          },
-          "29283": {
-            "name": "Uriangato"
-          },
-          "29295": {
-            "name": "Valle De Santiago"
-          },
-          "29299": {
-            "name": "Valtierrilla"
-          },
-          "29312": {
-            "name": "Victoria"
-          },
-          "29320": {
-            "name": "Villagran"
-          },
-          "29373": {
-            "name": "Yerbabuena"
-          },
-          "29375": {
-            "name": "Yuriria"
+          "29407": {
+            "name": "​Zimapan​"
           }
         }
       },
