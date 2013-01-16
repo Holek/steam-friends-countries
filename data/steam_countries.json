@@ -1870,1346 +1870,182 @@
       "CO": {
         "name": "Colorado",
         "cities": {
-          "166": {
-            "name": "Adelanto"
+          "613": {
+            "name": "​Alamosa​"
           },
-          "167": {
-            "name": "Agoura Hills"
+          "614": {
+            "name": "​Applewood​"
           },
-          "168": {
-            "name": "Alameda"
+          "615": {
+            "name": "​Arvada​"
           },
-          "169": {
-            "name": "Alamo"
+          "616": {
+            "name": "​Aurora​"
           },
-          "170": {
-            "name": "Albany"
+          "617": {
+            "name": "​Black Forest​"
           },
-          "171": {
-            "name": "Alhambra"
+          "618": {
+            "name": "​Boulder​"
           },
-          "172": {
-            "name": "Aliso Viejo"
+          "619": {
+            "name": "​Brighton​"
           },
-          "173": {
-            "name": "Alondra Park"
+          "620": {
+            "name": "​Broomfield​"
           },
-          "174": {
-            "name": "Alpine"
+          "621": {
+            "name": "​Canon City​"
           },
-          "175": {
-            "name": "Altadena"
+          "622": {
+            "name": "​Castle Rock​"
           },
-          "176": {
-            "name": "American Canyon"
+          "623": {
+            "name": "​Castlewood​"
           },
-          "177": {
-            "name": "Anaheim"
+          "624": {
+            "name": "​Centennial​"
           },
-          "178": {
-            "name": "Anderson"
+          "625": {
+            "name": "​Cimarron Hills​"
           },
-          "179": {
-            "name": "Antioch"
+          "626": {
+            "name": "​Clifton​"
           },
-          "180": {
-            "name": "Apple Valley"
+          "627": {
+            "name": "​Colorado Springs​"
           },
-          "181": {
-            "name": "Aptos"
+          "628": {
+            "name": "​Columbine​"
           },
-          "182": {
-            "name": "Arcadia"
+          "629": {
+            "name": "​Commerce City​"
           },
-          "183": {
-            "name": "Arcata"
+          "630": {
+            "name": "​Cortez​"
           },
-          "184": {
-            "name": "Arroyo Grande"
+          "631": {
+            "name": "​Craig​"
           },
-          "185": {
-            "name": "Artesia"
+          "632": {
+            "name": "​Denver​"
           },
-          "186": {
-            "name": "Arvin"
+          "633": {
+            "name": "​Durango​"
           },
-          "187": {
-            "name": "Ashland"
+          "634": {
+            "name": "​Englewood​"
           },
-          "188": {
-            "name": "Atascadero"
+          "635": {
+            "name": "​Erie​"
           },
-          "189": {
-            "name": "Atwater"
+          "636": {
+            "name": "​Evans​"
           },
-          "190": {
-            "name": "Auburn"
+          "637": {
+            "name": "​Federal Heights​"
           },
-          "191": {
-            "name": "Avenal"
+          "638": {
+            "name": "​Fort Carson​"
           },
-          "192": {
-            "name": "Avocado Heights"
+          "639": {
+            "name": "​Fort Collins​"
           },
-          "193": {
-            "name": "Azusa"
+          "640": {
+            "name": "​Fort Morgan​"
           },
-          "194": {
-            "name": "Bakersfield"
+          "641": {
+            "name": "​Fountain​"
           },
-          "195": {
-            "name": "Baldwin Park"
+          "642": {
+            "name": "​Glenwood Springs​"
           },
-          "196": {
-            "name": "Banning"
+          "643": {
+            "name": "​Golden​"
           },
-          "197": {
-            "name": "Barstow"
+          "644": {
+            "name": "​Grand Junction​"
           },
-          "198": {
-            "name": "Bay Point"
+          "645": {
+            "name": "​Greeley​"
           },
-          "199": {
-            "name": "Beaumont"
+          "646": {
+            "name": "​Greenwood Village​"
           },
-          "200": {
-            "name": "Bell"
+          "647": {
+            "name": "​Highlands Ranch​"
           },
-          "201": {
-            "name": "Bell Gardens"
+          "648": {
+            "name": "​Ken Caryl​"
           },
-          "202": {
-            "name": "Bellflower"
+          "649": {
+            "name": "​Lafayette​"
           },
-          "203": {
-            "name": "Belmont"
+          "650": {
+            "name": "​Lakewood​"
           },
-          "204": {
-            "name": "Benicia"
+          "651": {
+            "name": "​Lamar​"
           },
-          "205": {
-            "name": "Berkeley"
+          "652": {
+            "name": "​Littleton​"
           },
-          "206": {
-            "name": "Beverly Hills"
+          "653": {
+            "name": "​Longmont​"
           },
-          "207": {
-            "name": "Bloomington"
+          "654": {
+            "name": "​Louisville​"
           },
-          "208": {
-            "name": "Blythe"
+          "655": {
+            "name": "​Loveland​"
           },
-          "209": {
-            "name": "Bonita"
+          "656": {
+            "name": "​Montrose​"
           },
-          "210": {
-            "name": "Bostonia"
+          "657": {
+            "name": "​Northglenn​"
           },
-          "211": {
-            "name": "Brawley"
+          "658": {
+            "name": "​Parker​"
           },
-          "212": {
-            "name": "Brea"
+          "659": {
+            "name": "​Pueblo​"
           },
-          "213": {
-            "name": "Brentwood"
+          "660": {
+            "name": "​Redlands​"
           },
-          "214": {
-            "name": "Buena Park"
+          "661": {
+            "name": "​Sherrelwood​"
           },
-          "215": {
-            "name": "Burbank"
+          "662": {
+            "name": "​Southglenn​"
           },
-          "216": {
-            "name": "Burlingame"
+          "663": {
+            "name": "​Steamboat Springs​"
           },
-          "217": {
-            "name": "Calabasas"
+          "664": {
+            "name": "​Sterling​"
           },
-          "218": {
-            "name": "Calexico"
+          "665": {
+            "name": "​Superior​"
           },
-          "219": {
-            "name": "California City"
+          "666": {
+            "name": "​Thornton​"
           },
-          "220": {
-            "name": "Camarillo"
+          "667": {
+            "name": "​Trinidad​"
           },
-          "221": {
-            "name": "Cameron Park"
+          "668": {
+            "name": "​Welby​"
           },
-          "222": {
-            "name": "Campbell"
+          "669": {
+            "name": "​Westminster​"
           },
-          "223": {
-            "name": "Canyon Lake"
+          "670": {
+            "name": "​Wheat Ridge​"
           },
-          "224": {
-            "name": "Capitola"
-          },
-          "225": {
-            "name": "Carlsbad"
-          },
-          "226": {
-            "name": "Carmichael"
-          },
-          "227": {
-            "name": "Carpinteria"
-          },
-          "228": {
-            "name": "Carson"
-          },
-          "229": {
-            "name": "Castro Valley"
-          },
-          "230": {
-            "name": "Cathedral City"
-          },
-          "231": {
-            "name": "Ceres"
-          },
-          "232": {
-            "name": "Cerritos"
-          },
-          "233": {
-            "name": "Charter Oak"
-          },
-          "234": {
-            "name": "Cherryland"
-          },
-          "235": {
-            "name": "Chico"
-          },
-          "236": {
-            "name": "Chino"
-          },
-          "237": {
-            "name": "Chino Hills"
-          },
-          "238": {
-            "name": "Chowchilla"
-          },
-          "239": {
-            "name": "Chula Vista"
-          },
-          "240": {
-            "name": "Citrus"
-          },
-          "241": {
-            "name": "Citrus Heights"
-          },
-          "242": {
-            "name": "Claremont"
-          },
-          "243": {
-            "name": "Clayton"
-          },
-          "244": {
-            "name": "Clearlake"
-          },
-          "245": {
-            "name": "Clovis"
-          },
-          "246": {
-            "name": "Coachella"
-          },
-          "247": {
-            "name": "Coalinga"
-          },
-          "248": {
-            "name": "Colton"
-          },
-          "249": {
-            "name": "Commerce"
-          },
-          "250": {
-            "name": "Compton"
-          },
-          "251": {
-            "name": "Concord"
-          },
-          "252": {
-            "name": "Corcoran"
-          },
-          "253": {
-            "name": "Corona"
-          },
-          "254": {
-            "name": "Coronado"
-          },
-          "255": {
-            "name": "Corte Madera"
-          },
-          "256": {
-            "name": "Costa Mesa"
-          },
-          "257": {
-            "name": "Country Club"
-          },
-          "258": {
-            "name": "Covina"
-          },
-          "259": {
-            "name": "Crestline"
-          },
-          "260": {
-            "name": "Cudahy"
-          },
-          "261": {
-            "name": "Culver City"
-          },
-          "262": {
-            "name": "Cupertino"
-          },
-          "263": {
-            "name": "Cypress"
-          },
-          "264": {
-            "name": "Daly City"
-          },
-          "265": {
-            "name": "Dana Point"
-          },
-          "266": {
-            "name": "Danville"
-          },
-          "267": {
-            "name": "Davis"
-          },
-          "268": {
-            "name": "Delano"
-          },
-          "269": {
-            "name": "Desert Hot Springs"
-          },
-          "270": {
-            "name": "Diamond Bar"
-          },
-          "271": {
-            "name": "Dinuba"
-          },
-          "272": {
-            "name": "Dixon"
-          },
-          "273": {
-            "name": "Downey"
-          },
-          "274": {
-            "name": "Duarte"
-          },
-          "275": {
-            "name": "Dublin"
-          },
-          "276": {
-            "name": "East Foothills"
-          },
-          "277": {
-            "name": "East Hemet"
-          },
-          "278": {
-            "name": "East La Mirada"
-          },
-          "279": {
-            "name": "East Los Angeles"
-          },
-          "280": {
-            "name": "East Palo Alto"
-          },
-          "281": {
-            "name": "El Cajon"
-          },
-          "282": {
-            "name": "El Centro"
-          },
-          "283": {
-            "name": "El Cerrito"
-          },
-          "284": {
-            "name": "El Monte"
-          },
-          "285": {
-            "name": "El Segundo"
-          },
-          "286": {
-            "name": "El Sobrante"
-          },
-          "287": {
-            "name": "Elk Grove"
-          },
-          "288": {
-            "name": "Encinitas"
-          },
-          "289": {
-            "name": "Escondido"
-          },
-          "290": {
-            "name": "Eureka"
-          },
-          "291": {
-            "name": "Exeter"
-          },
-          "292": {
-            "name": "Fair Oaks"
-          },
-          "293": {
-            "name": "Fairfield"
-          },
-          "294": {
-            "name": "Fairview"
-          },
-          "295": {
-            "name": "Fallbrook"
-          },
-          "296": {
-            "name": "Farmersville"
-          },
-          "297": {
-            "name": "Fillmore"
-          },
-          "298": {
-            "name": "Florin"
-          },
-          "299": {
-            "name": "Folsom"
-          },
-          "300": {
-            "name": "Fontana"
-          },
-          "301": {
-            "name": "Foothill Farms"
-          },
-          "302": {
-            "name": "Fortuna"
-          },
-          "303": {
-            "name": "Foster City"
-          },
-          "304": {
-            "name": "Fountain Valley"
-          },
-          "305": {
-            "name": "Fremont"
-          },
-          "306": {
-            "name": "Fresno"
-          },
-          "307": {
-            "name": "Fullerton"
-          },
-          "308": {
-            "name": "Galt"
-          },
-          "309": {
-            "name": "Garden Acres"
-          },
-          "310": {
-            "name": "Garden Grove"
-          },
-          "311": {
-            "name": "Gardena"
-          },
-          "312": {
-            "name": "Gilroy"
-          },
-          "313": {
-            "name": "Glen Avon"
-          },
-          "314": {
-            "name": "Glendale"
-          },
-          "315": {
-            "name": "Glendora"
-          },
-          "316": {
-            "name": "Goleta"
-          },
-          "317": {
-            "name": "Gonzales"
-          },
-          "318": {
-            "name": "Grand Terrace"
-          },
-          "319": {
-            "name": "Grass Valley"
-          },
-          "320": {
-            "name": "Greenfield"
-          },
-          "321": {
-            "name": "Grover Beach"
-          },
-          "322": {
-            "name": "Hacienda Heights"
-          },
-          "323": {
-            "name": "Half Moon Bay"
-          },
-          "324": {
-            "name": "Hanford"
-          },
-          "325": {
-            "name": "Hawaiian Gardens"
-          },
-          "326": {
-            "name": "Hawthorne"
-          },
-          "327": {
-            "name": "Hayward"
-          },
-          "328": {
-            "name": "Healdsburg"
-          },
-          "329": {
-            "name": "Hemet"
-          },
-          "330": {
-            "name": "Hercules"
-          },
-          "331": {
-            "name": "Hermosa Beach"
-          },
-          "332": {
-            "name": "Hesperia"
-          },
-          "333": {
-            "name": "Highland"
-          },
-          "334": {
-            "name": "Hillsborough"
-          },
-          "335": {
-            "name": "Hollister"
-          },
-          "336": {
-            "name": "Huntington Beach"
-          },
-          "337": {
-            "name": "Huntington Park"
-          },
-          "338": {
-            "name": "Imperial"
-          },
-          "339": {
-            "name": "Imperial Beach"
-          },
-          "340": {
-            "name": "Indio"
-          },
-          "341": {
-            "name": "Inglewood"
-          },
-          "342": {
-            "name": "Irvine"
-          },
-          "343": {
-            "name": "Isla Vista"
-          },
-          "344": {
-            "name": "Kerman"
-          },
-          "345": {
-            "name": "King City"
-          },
-          "346": {
-            "name": "Kingsburg"
-          },
-          "347": {
-            "name": "La Canada Flintridge"
-          },
-          "348": {
-            "name": "La Habra"
-          },
-          "349": {
-            "name": "La Mesa"
-          },
-          "350": {
-            "name": "La Mirada"
-          },
-          "351": {
-            "name": "La Palma"
-          },
-          "352": {
-            "name": "La Presa"
-          },
-          "353": {
-            "name": "La Puente"
-          },
-          "354": {
-            "name": "La Quinta"
-          },
-          "355": {
-            "name": "La Riviera"
-          },
-          "356": {
-            "name": "La Verne"
-          },
-          "357": {
-            "name": "Lafayette"
-          },
-          "358": {
-            "name": "Laguna Beach"
-          },
-          "359": {
-            "name": "Laguna Hills"
-          },
-          "360": {
-            "name": "Laguna Niguel"
-          },
-          "361": {
-            "name": "Laguna Woods"
-          },
-          "362": {
-            "name": "Lake Elsinore"
-          },
-          "363": {
-            "name": "Lake Forest"
-          },
-          "364": {
-            "name": "Lakeside"
-          },
-          "365": {
-            "name": "Lakewood"
-          },
-          "366": {
-            "name": "Lamont"
-          },
-          "367": {
-            "name": "Lancaster"
-          },
-          "368": {
-            "name": "Larkspur"
-          },
-          "369": {
-            "name": "Lathrop"
-          },
-          "370": {
-            "name": "Lawndale"
-          },
-          "371": {
-            "name": "Lemon Grove"
-          },
-          "372": {
-            "name": "Lemoore"
-          },
-          "373": {
-            "name": "Lennox"
-          },
-          "374": {
-            "name": "Lincoln"
-          },
-          "375": {
-            "name": "Linda"
-          },
-          "376": {
-            "name": "Lindsay"
-          },
-          "377": {
-            "name": "Livermore"
-          },
-          "378": {
-            "name": "Livingston"
-          },
-          "379": {
-            "name": "Lodi"
-          },
-          "380": {
-            "name": "Loma Linda"
-          },
-          "381": {
-            "name": "Lomita"
-          },
-          "382": {
-            "name": "Lompoc"
-          },
-          "383": {
-            "name": "Long Beach"
-          },
-          "384": {
-            "name": "Los Alamitos"
-          },
-          "385": {
-            "name": "Los Altos"
-          },
-          "386": {
-            "name": "Los Altos Hills"
-          },
-          "387": {
-            "name": "Los Angeles"
-          },
-          "388": {
-            "name": "Los Banos"
-          },
-          "389": {
-            "name": "Los Gatos"
-          },
-          "390": {
-            "name": "Lynwood"
-          },
-          "391": {
-            "name": "Madera"
-          },
-          "392": {
-            "name": "Magalia"
-          },
-          "393": {
-            "name": "Malibu"
-          },
-          "394": {
-            "name": "Manhattan Beach"
-          },
-          "395": {
-            "name": "Manteca"
-          },
-          "396": {
-            "name": "Marina"
-          },
-          "397": {
-            "name": "Martinez"
-          },
-          "398": {
-            "name": "Marysville"
-          },
-          "399": {
-            "name": "Maywood"
-          },
-          "400": {
-            "name": "Mendota"
-          },
-          "401": {
-            "name": "Menlo Park"
-          },
-          "402": {
-            "name": "Merced"
-          },
-          "403": {
-            "name": "Mill Valley"
-          },
-          "404": {
-            "name": "Millbrae"
-          },
-          "405": {
-            "name": "Milpitas"
-          },
-          "406": {
-            "name": "Mira Loma"
-          },
-          "407": {
-            "name": "Mission Viejo"
-          },
-          "408": {
-            "name": "Modesto"
-          },
-          "409": {
-            "name": "Monrovia"
-          },
-          "410": {
-            "name": "Montclair"
-          },
-          "411": {
-            "name": "Montebello"
-          },
-          "412": {
-            "name": "Monterey"
-          },
-          "413": {
-            "name": "Monterey Park"
-          },
-          "414": {
-            "name": "Moorpark"
-          },
-          "415": {
-            "name": "Moraga"
-          },
-          "416": {
-            "name": "Moreno Valley"
-          },
-          "417": {
-            "name": "Morgan Hill"
-          },
-          "418": {
-            "name": "Morro Bay"
-          },
-          "419": {
-            "name": "Mountain View"
-          },
-          "420": {
-            "name": "Murrieta"
-          },
-          "421": {
-            "name": "Napa"
-          },
-          "422": {
-            "name": "National City"
-          },
-          "423": {
-            "name": "Newark"
-          },
-          "424": {
-            "name": "Newport Beach"
-          },
-          "425": {
-            "name": "Norco"
-          },
-          "426": {
-            "name": "North Auburn"
-          },
-          "427": {
-            "name": "North Highlands"
-          },
-          "428": {
-            "name": "Norwalk"
-          },
-          "429": {
-            "name": "Novato"
-          },
-          "430": {
-            "name": "Oakdale"
-          },
-          "431": {
-            "name": "Oakland"
-          },
-          "432": {
-            "name": "Oakley"
-          },
-          "433": {
-            "name": "Oceanside"
-          },
-          "434": {
-            "name": "Oildale"
-          },
-          "435": {
-            "name": "Olivehurst"
-          },
-          "436": {
-            "name": "Ontario"
-          },
-          "437": {
-            "name": "Orange"
-          },
-          "438": {
-            "name": "Orange Cove"
-          },
-          "439": {
-            "name": "Orangevale"
-          },
-          "440": {
-            "name": "Orinda"
-          },
-          "441": {
-            "name": "Oroville"
-          },
-          "442": {
-            "name": "Oxnard"
-          },
-          "443": {
-            "name": "Pacific Grove"
-          },
-          "444": {
-            "name": "Pacifica"
-          },
-          "445": {
-            "name": "Palm Desert"
-          },
-          "446": {
-            "name": "Palm Springs"
-          },
-          "447": {
-            "name": "Palmdale"
-          },
-          "448": {
-            "name": "Palo Alto"
-          },
-          "449": {
-            "name": "Palos Verdes Estates"
-          },
-          "450": {
-            "name": "Paradise"
-          },
-          "451": {
-            "name": "Paramount"
-          },
-          "452": {
-            "name": "Parlier"
-          },
-          "453": {
-            "name": "Pasadena"
-          },
-          "454": {
-            "name": "Patterson"
-          },
-          "455": {
-            "name": "Pedley"
-          },
-          "456": {
-            "name": "Perris"
-          },
-          "457": {
-            "name": "Petaluma"
-          },
-          "458": {
-            "name": "Pico Rivera"
-          },
-          "459": {
-            "name": "Piedmont"
-          },
-          "460": {
-            "name": "Pinole"
-          },
-          "461": {
-            "name": "Pismo Beach"
-          },
-          "462": {
-            "name": "Pittsburg"
-          },
-          "463": {
-            "name": "Placentia"
-          },
-          "464": {
-            "name": "Placerville"
-          },
-          "465": {
-            "name": "Pleasant Hill"
-          },
-          "466": {
-            "name": "Pleasanton"
-          },
-          "467": {
-            "name": "Pomona"
-          },
-          "468": {
-            "name": "Port Hueneme"
-          },
-          "469": {
-            "name": "Porterville"
-          },
-          "470": {
-            "name": "Poway"
-          },
-          "471": {
-            "name": "Quartz Hill"
-          },
-          "472": {
-            "name": "Ramona"
-          },
-          "473": {
-            "name": "Rancho Cordova"
-          },
-          "474": {
-            "name": "Rancho Cucamonga"
-          },
-          "475": {
-            "name": "Rancho Mirage"
-          },
-          "476": {
-            "name": "Rancho Palos Verdes"
-          },
-          "477": {
-            "name": "Rancho San Diego"
-          },
-          "478": {
-            "name": "Rancho Santa Margarita"
-          },
-          "479": {
-            "name": "Red Bluff"
-          },
-          "480": {
-            "name": "Redding"
-          },
-          "481": {
-            "name": "Redlands"
-          },
-          "482": {
-            "name": "Redondo Beach"
-          },
-          "483": {
-            "name": "Redwood City"
-          },
-          "484": {
-            "name": "Reedley"
-          },
-          "485": {
-            "name": "Rialto"
-          },
-          "486": {
-            "name": "Richmond"
-          },
-          "487": {
-            "name": "Ridgecrest"
-          },
-          "488": {
-            "name": "Rio Linda"
-          },
-          "489": {
-            "name": "Ripon"
-          },
-          "490": {
-            "name": "Riverbank"
-          },
-          "491": {
-            "name": "Riverside"
-          },
-          "492": {
-            "name": "Rocklin"
-          },
-          "493": {
-            "name": "Rohnert Park"
-          },
-          "494": {
-            "name": "Roseland"
-          },
-          "495": {
-            "name": "Rosemead"
-          },
-          "496": {
-            "name": "Rosemont"
-          },
-          "497": {
-            "name": "Roseville"
-          },
-          "498": {
-            "name": "Rossmoor"
-          },
-          "499": {
-            "name": "Rowland Heights"
-          },
-          "500": {
-            "name": "Rubidoux"
-          },
-          "501": {
-            "name": "Sacramento"
-          },
-          "502": {
-            "name": "Salinas"
-          },
-          "503": {
-            "name": "San Anselmo"
-          },
-          "504": {
-            "name": "San Bernardino"
-          },
-          "505": {
-            "name": "San Bruno"
-          },
-          "506": {
-            "name": "San Carlos"
-          },
-          "507": {
-            "name": "San Clemente"
-          },
-          "508": {
-            "name": "San Diego"
-          },
-          "509": {
-            "name": "San Dimas"
-          },
-          "510": {
-            "name": "San Fernando"
-          },
-          "511": {
-            "name": "San Francisco"
-          },
-          "512": {
-            "name": "San Gabriel"
-          },
-          "513": {
-            "name": "San Jacinto"
-          },
-          "514": {
-            "name": "San Jose"
-          },
-          "515": {
-            "name": "San Juan Capistrano"
-          },
-          "516": {
-            "name": "San Leandro"
-          },
-          "517": {
-            "name": "San Lorenzo"
-          },
-          "518": {
-            "name": "San Luis Obispo"
-          },
-          "519": {
-            "name": "San Marcos"
-          },
-          "520": {
-            "name": "San Marino"
-          },
-          "521": {
-            "name": "San Mateo"
-          },
-          "522": {
-            "name": "San Pablo"
-          },
-          "523": {
-            "name": "San Rafael"
-          },
-          "524": {
-            "name": "San Ramon"
-          },
-          "525": {
-            "name": "Sanger"
-          },
-          "526": {
-            "name": "Santa Ana"
-          },
-          "527": {
-            "name": "Santa Barbara"
-          },
-          "528": {
-            "name": "Santa Clara"
-          },
-          "529": {
-            "name": "Santa Clarita"
-          },
-          "530": {
-            "name": "Santa Cruz"
-          },
-          "531": {
-            "name": "Santa Fe Springs"
-          },
-          "532": {
-            "name": "Santa Maria"
-          },
-          "533": {
-            "name": "Santa Monica"
-          },
-          "534": {
-            "name": "Santa Paula"
-          },
-          "535": {
-            "name": "Santa Rosa"
-          },
-          "536": {
-            "name": "Santee"
-          },
-          "537": {
-            "name": "Saratoga"
-          },
-          "538": {
-            "name": "Scotts Valley"
-          },
-          "539": {
-            "name": "Seal Beach"
-          },
-          "540": {
-            "name": "Seaside"
-          },
-          "541": {
-            "name": "Selma"
-          },
-          "542": {
-            "name": "Shafter"
-          },
-          "543": {
-            "name": "Shasta Lake"
-          },
-          "544": {
-            "name": "Sierra Madre"
-          },
-          "545": {
-            "name": "Signal Hill"
-          },
-          "546": {
-            "name": "Simi Valley"
-          },
-          "547": {
-            "name": "Solana Beach"
-          },
-          "548": {
-            "name": "Soledad"
-          },
-          "549": {
-            "name": "Sonoma"
-          },
-          "550": {
-            "name": "Soquel"
-          },
-          "551": {
-            "name": "South El Monte"
-          },
-          "552": {
-            "name": "South Gate"
-          },
-          "553": {
-            "name": "South Lake Tahoe"
-          },
-          "554": {
-            "name": "South Pasadena"
-          },
-          "555": {
-            "name": "South San Francisco"
-          },
-          "556": {
-            "name": "South San Jose Hills"
-          },
-          "557": {
-            "name": "South Whittier"
-          },
-          "558": {
-            "name": "South Yuba City"
-          },
-          "559": {
-            "name": "Spring Valley"
-          },
-          "560": {
-            "name": "Stanford"
-          },
-          "561": {
-            "name": "Stanton"
-          },
-          "562": {
-            "name": "Stockton"
-          },
-          "563": {
-            "name": "Suisun City"
-          },
-          "564": {
-            "name": "Sun City"
-          },
-          "565": {
-            "name": "Sunnyvale"
-          },
-          "566": {
-            "name": "Susanville"
-          },
-          "567": {
-            "name": "Taft"
-          },
-          "568": {
-            "name": "Tehachapi"
-          },
-          "569": {
-            "name": "Temecula"
-          },
-          "570": {
-            "name": "Temple City"
-          },
-          "571": {
-            "name": "Thousand Oaks"
-          },
-          "572": {
-            "name": "Tiburon"
-          },
-          "573": {
-            "name": "Torrance"
-          },
-          "574": {
-            "name": "Tracy"
-          },
-          "575": {
-            "name": "Truckee"
-          },
-          "576": {
-            "name": "Tulare"
-          },
-          "577": {
-            "name": "Turlock"
-          },
-          "578": {
-            "name": "Tustin"
-          },
-          "579": {
-            "name": "Tustin Foothills"
-          },
-          "580": {
-            "name": "Twentynine Palms"
-          },
-          "581": {
-            "name": "Ukiah"
-          },
-          "582": {
-            "name": "Union City"
-          },
-          "583": {
-            "name": "Upland"
-          },
-          "584": {
-            "name": "Vacaville"
-          },
-          "585": {
-            "name": "Valinda"
-          },
-          "586": {
-            "name": "Vallejo"
-          },
-          "587": {
-            "name": "Victorville"
-          },
-          "588": {
-            "name": "Visalia"
-          },
-          "589": {
-            "name": "Vista"
-          },
-          "590": {
-            "name": "Walnut"
-          },
-          "591": {
-            "name": "Walnut Creek"
-          },
-          "592": {
-            "name": "Walnut Park"
-          },
-          "593": {
-            "name": "Wasco"
-          },
-          "594": {
-            "name": "Watsonville"
-          },
-          "595": {
-            "name": "West Athens"
-          },
-          "596": {
-            "name": "West Carson"
-          },
-          "597": {
-            "name": "West Covina"
-          },
-          "598": {
-            "name": "West Hollywood"
-          },
-          "599": {
-            "name": "West Puente Valley"
-          },
-          "600": {
-            "name": "West Sacramento"
-          },
-          "601": {
-            "name": "Westlake Village"
-          },
-          "602": {
-            "name": "Westminster"
-          },
-          "603": {
-            "name": "Westmont"
-          },
-          "604": {
-            "name": "Whittier"
-          },
-          "605": {
-            "name": "Wildomar"
-          },
-          "606": {
-            "name": "Willowbrook"
-          },
-          "607": {
-            "name": "Windsor"
-          },
-          "608": {
-            "name": "Woodland"
-          },
-          "609": {
-            "name": "Yorba Linda"
-          },
-          "610": {
-            "name": "Yuba City"
-          },
-          "611": {
-            "name": "Yucaipa"
-          },
-          "612": {
-            "name": "Yucca Valley"
+          "671": {
+            "name": "​Windsor​"
           }
         }
       },
