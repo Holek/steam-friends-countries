@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'steam_location'
-  s.version     = '0.0.2'
-  s.date        = '2013-01-15'
+  s.version     = '0.1.0'
+  s.date        = '2013-01-17'
   s.summary     = "Steam Friends' Location"
   s.description = "This gem allows you to parse Steam Community's player location and get a proper name for their location."
   s.authors     = ["Mike Połtyn"]
