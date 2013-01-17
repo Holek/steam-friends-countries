@@ -32,7 +32,7 @@ Installation and usage
 
 or add to `Gemfile`
 
-    gem "steam_location", "~> 0.0.2"
+    gem "steam_location", "~> 0.1.0"
 
 Quick tutorial (for IRB):
 
