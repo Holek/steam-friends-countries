@@ -44596,28 +44596,331 @@
     "name": "Finland",
     "states": {
       "01": {
-        "name": "Central",
+        "name": "Åland",
         "cities": {
           "15482": {
             "name": "Maarianhamina"
           }
         }
       },
-      "02": {
-        "name": "Eastern",
-        "cities": {}
+      "06": {
+        "name": "Lapland",
+        "cities": {
+          "15459": {
+            "name": "Kemi"
+          },
+          "15458": {
+            "name": "Kemijarvi"
+          },
+          "15506": {
+            "name": "Rovaniemi"
+          },
+          "15515": {
+            "name": "Tornio"
+          }
+        }
       },
-      "03": {
-        "name": "Northern",
-        "cities": {}
+      "08": {
+        "name": "Oulu",
+        "cities": {
+          "15438": {
+            "name": "Haukipudas"
+          },
+          "15454": {
+            "name": "Kajaani"
+          },
+          "15460": {
+            "name": "Kempele"
+          },
+          "15471": {
+            "name": "Kuusamo"
+          },
+          "15485": {
+            "name": "Muhos"
+          },
+          "15490": {
+            "name": "Nivala"
+          },
+          "15495": {
+            "name": "Oulainen"
+          },
+          "15496": {
+            "name": "Oulu"
+          },
+          "15502": {
+            "name": "Raahe"
+          },
+          "15526": {
+            "name": "Ylivieska"
+          }
+        }
       },
-      "04": {
-        "name": "Rotuma",
-        "cities": {}
+      "13": {
+        "name": "Southern Finland",
+        "cities": {
+          "15430": {
+            "name": "Espoo"
+          },
+          "15433": {
+            "name": "Forssa"
+          },
+          "15434": {
+            "name": "Hameenlinna"
+          },
+          "15435": {
+            "name": "Hamina"
+          },
+          "15436": {
+            "name": "Hanko"
+          },
+          "15439": {
+            "name": "Heinola"
+          },
+          "15440": {
+            "name": "Helsinki"
+          },
+          "15441": {
+            "name": "Hollola"
+          },
+          "15443": {
+            "name": "Hyvinkaa"
+          },
+          "15446": {
+            "name": "Imatra"
+          },
+          "15448": {
+            "name": "Janakkala"
+          },
+          "15449": {
+            "name": "Jarvenpaa"
+          },
+          "15451": {
+            "name": "Joutseno"
+          },
+          "15461": {
+            "name": "Kerava"
+          },
+          "15463": {
+            "name": "Kirkkonummi"
+          },
+          "15466": {
+            "name": "Kotka"
+          },
+          "15467": {
+            "name": "Kouvola"
+          },
+          "15472": {
+            "name": "Kuusankoski"
+          },
+          "15473": {
+            "name": "Lahti"
+          },
+          "15474": {
+            "name": "Lappeenranta"
+          },
+          "15480": {
+            "name": "Lohja"
+          },
+          "15481": {
+            "name": "Loviisa"
+          },
+          "15483": {
+            "name": "Mantsala"
+          },
+          "15489": {
+            "name": "Nastola"
+          },
+          "15493": {
+            "name": "Nurmijarvi"
+          },
+          "15494": {
+            "name": "Orimattila"
+          },
+          "15501": {
+            "name": "Porvoo"
+          },
+          "15505": {
+            "name": "Riihimaki"
+          },
+          "15512": {
+            "name": "Sipoo"
+          },
+          "15513": {
+            "name": "Tammisaari"
+          },
+          "15517": {
+            "name": "Tuusula"
+          },
+          "15522": {
+            "name": "Valkeala"
+          },
+          "15525": {
+            "name": "Vihti"
+          }
+        }
       },
-      "05": {
-        "name": "Western",
-        "cities": {}
+      "14": {
+        "name": "Eastern Finland",
+        "cities": {
+          "15444": {
+            "name": "Iisalmi"
+          },
+          "15450": {
+            "name": "Joensuu"
+          },
+          "15469": {
+            "name": "Kuopio"
+          },
+          "15478": {
+            "name": "Lieksa"
+          },
+          "15484": {
+            "name": "Mikkeli"
+          },
+          "15509": {
+            "name": "Savonlinna"
+          },
+          "15511": {
+            "name": "Siilinjarvi"
+          },
+          "15524": {
+            "name": "Varkaus"
+          }
+        }
+      },
+      "15": {
+        "name": "Western Finland",
+        "cities": {
+          "15429": {
+            "name": "Aanekoski"
+          },
+          "15431": {
+            "name": "Eura"
+          },
+          "15432": {
+            "name": "Eurajoki"
+          },
+          "15437": {
+            "name": "Harjavalta"
+          },
+          "15442": {
+            "name": "Huittinen"
+          },
+          "15445": {
+            "name": "Ilmajoki"
+          },
+          "15447": {
+            "name": "Jamsa"
+          },
+          "15452": {
+            "name": "Jyvaskyla"
+          },
+          "15453": {
+            "name": "Kaarina"
+          },
+          "15455": {
+            "name": "Kangasala"
+          },
+          "15456": {
+            "name": "Kankaanpaa"
+          },
+          "15457": {
+            "name": "Kauhajoki"
+          },
+          "15462": {
+            "name": "Keuruu"
+          },
+          "15464": {
+            "name": "Kokemaki"
+          },
+          "15465": {
+            "name": "Kokkola"
+          },
+          "15468": {
+            "name": "Kristiinankaupunki"
+          },
+          "15470": {
+            "name": "Kurikka"
+          },
+          "15475": {
+            "name": "Lapua"
+          },
+          "15476": {
+            "name": "Laukaa"
+          },
+          "15477": {
+            "name": "Lempaala"
+          },
+          "15479": {
+            "name": "Lieto"
+          },
+          "15486": {
+            "name": "Mustasaari"
+          },
+          "15487": {
+            "name": "Naantali"
+          },
+          "15488": {
+            "name": "Nakkila"
+          },
+          "15491": {
+            "name": "Nokia"
+          },
+          "15492": {
+            "name": "Noormarkku"
+          },
+          "15497": {
+            "name": "Parainen"
+          },
+          "15498": {
+            "name": "Pietarsaari"
+          },
+          "15499": {
+            "name": "Pirkkala"
+          },
+          "15500": {
+            "name": "Pori"
+          },
+          "15503": {
+            "name": "Raisio"
+          },
+          "15504": {
+            "name": "Rauma"
+          },
+          "15507": {
+            "name": "Sakyla"
+          },
+          "15508": {
+            "name": "Salo"
+          },
+          "15510": {
+            "name": "Seinajoki"
+          },
+          "15514": {
+            "name": "Tampere"
+          },
+          "15516": {
+            "name": "Turku"
+          },
+          "15518": {
+            "name": "Ulvila"
+          },
+          "15519": {
+            "name": "Uusikaupunki"
+          },
+          "15520": {
+            "name": "Vaasa"
+          },
+          "15521": {
+            "name": "Valkeakoski"
+          },
+          "15523": {
+            "name": "Vammala"
+          },
+          "15527": {
+            "name": "Ylojarvi"
+          }
+        }
       }
     }
   },
