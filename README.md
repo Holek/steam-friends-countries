@@ -49,6 +49,17 @@ You can use `:map_search_string` for map search queries, like asking Google Maps
 
 This gem has been tested against Ruby 1.8.7, 1.9.2 and 1.9.3.
 
+Changelog
+=========
+
+* v0.1.0 - *location data is correct from this point on*
+  * fixed Colorado, US' cities
+  * fixed Mexico city duplication
+  * fixed Finland information
+* v0.0.2
+  * fixed German state names
+* v0.0.1
+  * initial version
 
 Thanks
 =======
