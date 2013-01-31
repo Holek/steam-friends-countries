@@ -25,8 +25,15 @@ Well, I've devised a solution. I've scraped all the information about countries,
 
 The file is available in the repository and, obviously, free and open-source.
 
+
 Installation and usage
 ======================
+
+### As a JSON
+
+There are plain JSON files with all the locations with IDs and name loccated in [`/data`](data/) folder. If you don't want to use this data in a gem, you can simply grab the JSON files and do some magic of your own on them.
+
+### As a gem
 
     gem install steam_location
 
