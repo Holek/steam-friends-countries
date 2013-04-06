@@ -46,9 +46,9 @@ Quick tutorial (for IRB):
     > require 'steam_location'
     > location = {"loccountrycode"=>"PL", "locstatecode"=>"86", "loccityid"=>35924}
     > SteamLocation.find(location)
-     => {:loccountry=>"Poland", :locstate=>"Wielkopolskie", :loccity=>"Poznan", :map_search_string=>"Poznan, Wielkopolskie, Poland"}
+     => => {:map_search_string=>"Poznan, Wielkopolskie, Poland", :coordinates_accuracy_level=>"city", :locstate=>"Wielkopolskie", :loccountry=>"Poland", :loccity=>"Poznan", :coordinates=>"52.406374,16.925168"}
     > SteamLocation.find("PL", "86", 35924)
-     => {:loccountry=>"Poland", :locstate=>"Wielkopolskie", :loccity=>"Poznan", :map_search_string=>"Poznan, Wielkopolskie, Poland"}
+     => => {:map_search_string=>"Poznan, Wielkopolskie, Poland", :coordinates_accuracy_level=>"city", :locstate=>"Wielkopolskie", :loccountry=>"Poland", :loccity=>"Poznan", :coordinates=>"52.406374,16.925168"}
 
 The `location` hash in the example is an actual part of Steam Web API response for [`GetPlayerSummaries`](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_.28v0002.29) call. You can simply pass player info hash to `SteamLocation.find` method, and it'll return information about player location.
 
