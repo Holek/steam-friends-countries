@@ -50,7 +50,7 @@ Quick tutorial (for IRB):
     > SteamLocation.find("PL", "86", 35924)
      => => {:map_search_string=>"Poznan, Wielkopolskie, Poland", :coordinates_accuracy_level=>"city", :locstate=>"Wielkopolskie", :loccountry=>"Poland", :loccity=>"Poznan", :coordinates=>"52.406374,16.925168"}
 
-The `location` hash in the example is an actual part of Steam Web API response for [`GetPlayerSummaries`](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_.28v0002.29) call. You can simply pass player info hash to `SteamLocation.find` method, and it'll return information about player location.
+The `location` hash in the example is an actual part of Steam Web API response for [`GetPlayerSummaries`](https://developer.valvesoftware.com/w/index.php?title=Steam_Web_API&oldid=174392#GetPlayerSummaries_.28v0002.29) call. You can simply pass player info hash to `SteamLocation.find` method, and it'll return information about player location.
 
 You can use `:map_search_string` for map search queries, like asking Google Maps or Microsoft Bing or whatever mapping system you want to use.
 
