@@ -1,4 +1,4 @@
-steam-friends-countries
+steam-friends-countries [![Gem Version](https://badge.fury.io/rb/steam_location.svg)](http://badge.fury.io/rb/steam_location)
 =======================
 
 Steam Community city data in JSON format. [Steam Community](http://steamcommunity.com) is a great social network for gamers. It's also a very good network to base your social projects on.
