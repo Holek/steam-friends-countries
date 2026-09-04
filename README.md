@@ -3,9 +3,9 @@ steam-friends-countries [![Gem Version](https://badge.fury.io/rb/steam_location.
 
 Steam Community city data in JSON format. [Steam Community](http://steamcommunity.com) is a great social network for gamers. It's also a very good network to base your social projects on.
 
-Unfortunately, the API is not one of the best. While it's [documented well](http://steamcommunity.com/dev) for the most part, it still lacks in some figurative data.
+Unfortunately, the API is not one of the best. While it's [documented well](http://steamcommunity.com/dev) for the most part, it still lacks some descriptive data.
 
-One of this data is [information about players' locations](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_.28v0001.29). It's presented in a form of three keys:
+This data includes [information about players' locations](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_.28v0001.29). Steam presents it as three keys:
 
     "loccountrycode"=>"PL",
     "locstatecode"=>"86",
@@ -15,7 +15,7 @@ which corresponds to... Yeah, exactly what? We know `PL` stands for Poland, but 
 
 Notice how inconsistent this data is:
 
-1. State code always is returned as a stringified number. Very rarely it corresponds to something like `"M3"` (it happens, though)
+1. State code is always returned as a stringified number. Very rarely it corresponds to something like `"M3"` (it happens, though)
 2. Location city ID is just that. It's just an ID of a city. No indication what city, where, nothing, just a plain number
 
 Solution
@@ -35,7 +35,7 @@ Installation and usage
 
 ### As a JSON
 
-There are plain JSON files with all the locations with IDs and name loccated in [`/data`](data/) folder. If you don't want to use this data in a gem, you can simply grab the JSON files and do some magic of your own on them.
+The [`/data`](data/) folder holds plain JSON files with every location's ID and name. Grab these files directly if you don't want to use this data through the gem.
 
 ### As a gem
 
@@ -50,15 +50,15 @@ Quick tutorial (for IRB):
     > require 'steam_location'
     > location = {"loccountrycode"=>"PL", "locstatecode"=>"86", "loccityid"=>35924}
     > SteamLocation.find(location)
-     => => {:map_search_string=>"Poznan, Wielkopolskie, Poland", :coordinates_accuracy_level=>"city", :locstate=>"Wielkopolskie", :loccountry=>"Poland", :loccity=>"Poznan", :coordinates=>"52.406374,16.925168"}
+     => {:map_search_string=>"Poznan, Wielkopolskie, Poland", :coordinates_accuracy_level=>"city", :locstate=>"Wielkopolskie", :loccountry=>"Poland", :loccity=>"Poznan", :coordinates=>"52.406374,16.925168"}
     > SteamLocation.find("PL", "86", 35924)
-     => => {:map_search_string=>"Poznan, Wielkopolskie, Poland", :coordinates_accuracy_level=>"city", :locstate=>"Wielkopolskie", :loccountry=>"Poland", :loccity=>"Poznan", :coordinates=>"52.406374,16.925168"}
+     => {:map_search_string=>"Poznan, Wielkopolskie, Poland", :coordinates_accuracy_level=>"city", :locstate=>"Wielkopolskie", :loccountry=>"Poland", :loccity=>"Poznan", :coordinates=>"52.406374,16.925168"}
 
-The `location` hash in the example is an actual part of Steam Web API response for [`GetPlayerSummaries`](https://developer.valvesoftware.com/w/index.php?title=Steam_Web_API&oldid=174392#GetPlayerSummaries_.28v0002.29) call. You can simply pass player info hash to `SteamLocation.find` method, and it'll return information about player location.
+The `location` hash in the example is part of the actual Steam Web API response for the [`GetPlayerSummaries`](https://developer.valvesoftware.com/w/index.php?title=Steam_Web_API&oldid=174392#GetPlayerSummaries_.28v0002.29) call. Pass this player-info hash to `SteamLocation.find`. It returns the player's location.
 
 You can use `:map_search_string` for map search queries, like asking Google Maps or Microsoft Bing or whatever mapping system you want to use.
 
-This gem has been tested against Ruby 1.8.7, 1.9.2 and 1.9.3.
+This gem was tested against Ruby 1.8.7, 1.9.2, and 1.9.3 in 2013, and against Ruby 3.1 in 2026.
 
 Changelog
 =========
