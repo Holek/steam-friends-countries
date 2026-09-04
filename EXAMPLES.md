@@ -9,7 +9,7 @@ This file shows how, in 15+ languages, using each language's most common JSON li
 
 ## The problem these examples solve
 
-[`GetPlayerSummaries`](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_.28v0001.29)
+[`GetPlayerSummaries`](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_(v0002))
 returns a player's location as up to three keys:
 
 ```json

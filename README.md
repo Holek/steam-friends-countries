@@ -5,7 +5,7 @@ Steam Community city data in JSON format. [Steam Community](http://steamcommunit
 
 Unfortunately, the API is not one of the best. While it's [documented well](http://steamcommunity.com/dev) for the most part, it still lacks some descriptive data.
 
-This data includes [information about players' locations](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_.28v0001.29). Steam presents it as three keys:
+This data includes [information about players' locations](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_(v0002)). Steam presents it as three keys:
 
     "loccountrycode"=>"PL",
     "locstatecode"=>"86",
@@ -56,7 +56,7 @@ Quick tutorial (for IRB):
     > SteamLocation.find("PL", "86", 35924)
      => {:map_search_string=>"Poznan, Wielkopolskie, Poland", :coordinates_accuracy_level=>"city", :locstate=>"Wielkopolskie", :loccountry=>"Poland", :loccity=>"Poznan", :coordinates=>"52.406374,16.925168"}
 
-The `location` hash in the example is part of the actual Steam Web API response for the [`GetPlayerSummaries`](https://developer.valvesoftware.com/w/index.php?title=Steam_Web_API&oldid=174392#GetPlayerSummaries_.28v0002.29) call. Pass this player-info hash to `SteamLocation.find`. It returns the player's location.
+The `location` hash in the example is part of the actual Steam Web API response for the [`GetPlayerSummaries`](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_(v0002)) call. Pass this player-info hash to `SteamLocation.find`. It returns the player's location.
 
 You can use `:map_search_string` for map search queries, like asking Google Maps or Microsoft Bing or whatever mapping system you want to use.
 
