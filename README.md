@@ -37,6 +37,8 @@ Installation and usage
 
 The [`/data`](data/) folder holds plain JSON files with every location's ID and name. Grab these files directly if you don't want to use this data through the gem.
 
+See [`EXAMPLES.md`](EXAMPLES.md) for code that reads the JSON file directly in 15+ languages (JavaScript, Python, Java, Go, Rust, C++, and more), no gem required.
+
 ### As a gem
 
     gem install steam_location
