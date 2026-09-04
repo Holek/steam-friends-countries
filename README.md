@@ -25,6 +25,10 @@ Well, I've devised a solution. I've scraped all the information about countries,
 
 The file is available in the repository and, obviously, free and open-source.
 
+Some `coordinates` were filled in via [OpenStreetMap](https://www.openstreetmap.org)'s
+Nominatim geocoder (`script/update_coordinates.rb`) where no hand-entered value existed.
+© OpenStreetMap contributors, [ODbL](https://www.openstreetmap.org/copyright).
+
 
 Installation and usage
 ======================
@@ -39,7 +43,7 @@ There are plain JSON files with all the locations with IDs and name loccated in 
 
 or add to `Gemfile`
 
-    gem "steam_location", "~> 0.1.0"
+    gem "steam_location", "~> 0.3.0"
 
 Quick tutorial (for IRB):
 
@@ -59,6 +63,8 @@ This gem has been tested against Ruby 1.8.7, 1.9.2 and 1.9.3.
 Changelog
 =========
 
+* v0.3.0
+  * backfilled missing `coordinates` via OpenStreetMap's Nominatim geocoder (`script/update_coordinates.rb`), closing out the gaps left by newly-discovered or never-geocoded codes
 * v0.2.0
   * refreshed all location data from Steam's current API (250 countries, up from 236; obsolete codes like `YU`, `ZR`, `AN` replaced by their successors)
   * added `script/update_locations.rb` to re-crawl and regenerate the data files
