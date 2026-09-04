@@ -59,6 +59,9 @@ This gem has been tested against Ruby 1.8.7, 1.9.2 and 1.9.3.
 Changelog
 =========
 
+* v0.2.0
+  * refreshed all location data from Steam's current API (250 countries, up from 236; obsolete codes like `YU`, `ZR`, `AN` replaced by their successors)
+  * added `script/update_locations.rb` to re-crawl and regenerate the data files
 * v0.1.0 - *location data is correct from this point on*
   * fixed Colorado, US' cities
   * fixed Mexico city duplication
